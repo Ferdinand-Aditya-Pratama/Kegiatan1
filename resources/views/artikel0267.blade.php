@@ -13,7 +13,7 @@
     </nav>
 
     <div class="container-fluid p-3 mb-2 bg-light text-dark">
-      <h1>Pengenalan Framework</h1>
+      <h1 style="text-align: center;">Pengenalan Framework</h1>
       <h2>Apa Itu Framework?</h2>
       <p>Ketika mengacu pada software komputer, pengertian framework adalah fondasi dengan tingkat kerumitan yang ditentukan dan dapat diperluas oleh pemrogram dengan menggunakan kode mereka sendiri termasuk kompiler, juru bahasa, atau API. Secara umum, framework menyediakan lingkungan yang memfasilitasi jenis pemrograman tertentu untuk proyek pengembangan software. Sebuah framework dalam pemrograman seringkali merupakan struktur berlapis yang menunjukkan program apa yang dapat atau harus dibangun dan bagaimana framework akan saling terkait. Beberapa framework sistem komputer juga termasuk program aktual, menentukan interface pemrograman, atau menawarkan alat pemrograman untuk menggunakan kerangka kerja. Suatu framework mungkin digunakan untuk sekumpulan fungsi dalam suatu sistem dan bagaimana semuanya saling terkait. Apa itu Framework? Framework bisa berarti lapisan-lapisan sistem operasi dan lapisan-lapisan suatu subsistem aplikasi, bagaimana komunikasi harus distandarisasi pada beberapa tingkat jaringan dan seterusnya. Framework Umumnya lebih komprehensif daripada protokol dan lebih bersifat perspektif daripada struktur.</p>
       <h2>Framework PHP Terbaik</h2>

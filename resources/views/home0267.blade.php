@@ -12,7 +12,7 @@
         <a href="/home/contact">Contact</a>
     </nav>
 
-    <h1>Welcome to the Home Page</h1>
+    <h1 style="text-align: center;">Welcome to the Home Page</h1>
 
     <hr>
     <footer style="text-align: center;">
